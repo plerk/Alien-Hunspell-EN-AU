@@ -43,6 +43,16 @@ Returns the full path to the "dictionary" word list file.
 
 Return the directory that contains the world list files.
 
+=head1 BUNDLED FILES
+
+This distribution comes with files which are licensed under the GPL 
+version 2.
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+
+See the license.txt file in the share directory which came with this 
+software.
+
 =cut
 
 sub aff_file

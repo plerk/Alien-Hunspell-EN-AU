@@ -37,13 +37,24 @@ Returns the full path to the "dictionary" word list file.
 
 Return the directory that contains the world list files.
 
+# BUNDLED FILES
+
+This distribution comes with files which are licensed under the GPL 
+version 2.
+
+    Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+
+See the license.txt file in the share directory which came with this 
+software.
+
 # AUTHOR
 
 Graham Ollis &lt;plicease@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2016 by Graham Ollis.
+This software is Copyright (c) 2016 by Graham Ollis.
 
-This is free software; you can redistribute it and/or modify it under
-the same terms as the Perl 5 programming language system itself.
+This is free software, licensed under:
+
+    The GNU General Public License, Version 2, June 1991
